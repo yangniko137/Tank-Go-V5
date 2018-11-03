@@ -2,9 +2,9 @@
 The project is build on Linkit-7697 and Robot-Shield-V2.0 board
 It support LBT and Wi-Fi connections on IOS and Android of mobileibility devices to control it
 The Robot shield is extend board with 2 of 750F capacitor as batteries and full charge by 30-40 mins  
+I would like to call it as "Table Tank" instead - It is very funny to play with family or friends.
 
-I would like to call it as "Table Tank" instead - It is very funny to play with family and friends.
-Huge Tahnks for George Chiou for his great work and contribution for Tank-Go sirious stuffs 
+Huge Tahnks to George Chiou for his great work and contribution on Tank-Go stuffs 
 Please visit his Github to download 3D printing files https://github.com/GeorgeChiou/Robot-Shield-V2.0 and 
 the instrutions has show on his Youtube channel https://youtu.be/rpaQaJ1GmJE
 Meanwhile, all of H/W BOM list on the film description as well
