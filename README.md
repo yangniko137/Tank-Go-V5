@@ -1,8 +1,8 @@
 # Tank-Go-V5 (Table Tank)
 The project is build on Linkit-7697 and Robot-Shield-V2.0 boards. 
 I would like to call it as "Table Tank" instead, it is very funny to play with family or friends.
-  - It support LBT and Wi-Fi connections on IOS and Android of mobileibility devices to control it
-  - The Robot shield is extend board with 2 of 750F capacitor as batteries and full charge by 30-40 mins  
+  - It support LBT and Wi-Fi connections on IOS and Android of mobileibility devices 
+  - The Robot-shield is extension board with 2 of 750F capacitor as batteries (full charge by 30-40 mins)  
 ----------------------------------------------------------------------------------------------------------------
 Huge Tahnks to George Chiou for his great work and contribution on Tank-Go stuffs 
   - Please visit his Github to download 3D printing files https://github.com/GeorgeChiou/Robot-Shield-V2.0 and 
