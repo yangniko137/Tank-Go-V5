@@ -18,8 +18,9 @@ For this update version are based on personal preference, include:
   - Add "chu" sound when AMMO volume is zero and the player still push "Fire" button
   - Add AMMO LED and the indicator will light when AMMO QTY is zero and delight when backfil AMMO
   - Add Life LED and the indicator light when "Tank life" is zero and turn to dark when tank repair finished 
-  - The user button on LinkIT7697 board is functionalify testing purpose. It will show AMMO and life alarm 
-    message and light and swap those 2 external LED indicators by each 0.5 seconds and test IR singal workable as well
+  - The user' button on LinkIT7697 board is test functionalify. It will play AMMO and life alarm 
+    voice and those 2 external LED indicators light by 0.5 seconds on each. 
+  - we also can use this user' button to test IR singal if it workable as well
   
   Attentions
     - The AMMO indicator connect P15 pin to Robot shield and the 2nd IR LED had move to P3 pin. 
