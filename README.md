@@ -1,14 +1,15 @@
 # Tank-Go-V5 (Table Tank)
 The project is build on Linkit-7697 and Robot-Shield-V2.0 board
-It support LBT and Wi-Fi connections on IOS and Android of mobileibility devices to control it
-The Robot shield is extend board with 2 of 750F capacitor as batteries and full charge by 30-40 mins  
+  - It support LBT and Wi-Fi connections on IOS and Android of mobileibility devices to control it
+  - The Robot shield is extend board with 2 of 750F capacitor as batteries and full charge by 30-40 mins  
+  -
 I would like to call it as "Table Tank" instead - It is very funny to play with family or friends.
-
+  - 
 Huge Tahnks to George Chiou for his great work and contribution on Tank-Go stuffs 
   - Please visit his Github to download 3D printing files https://github.com/GeorgeChiou/Robot-Shield-V2.0 and 
   - the instrutions has show on his Youtube channel https://youtu.be/rpaQaJ1GmJE
   - Meanwhile, all of H/W BOM list on the film description as well
-
+  -
 For this update version are based on personal preference, include:
   - Optimize the RC lanscape and those buttons on left and right side 
   - Add MP3 play list up to 15 songs on middle of screen 
@@ -21,7 +22,7 @@ For this update version are based on personal preference, include:
   - The user' button on LinkIT7697 board is test functionalify. It will play AMMO and life alarm 
     voice and those 2 external LED indicators light by 0.5 seconds on each. 
   - we also can use this user' button to test IR singal if it workable as well
-  
+  -
 Attentions
   - The AMMO indicator connect P15 pin to Robot shield and the 2nd IR LED had move to P3 pin. 
     If you adopt the dual turret on your tank and connect the 2nd IR LED from original P15 IR LED had to plug 
@@ -30,6 +31,6 @@ Attentions
   - Please create mp3 folder on TF card then insert to DFPLAYER module. 
   - The github package include system voice which reserved by 0001 - 0010. 
     If you want to put your prefer songs then the file name will go from 0011 - 0025.mp3 by sequence.
-    
+  -   
 Enjoy and have fun. Thanks.  
 Niko Yang 2018, Oct 
