@@ -28,8 +28,8 @@ Attentions
     into P3 pin on robot shield board   
   - Need manual cut pice of Turret supporter as screwdriver show it on attach picture before plug connector to P3 pin
   - Please create mp3 folder on TF card then insert to DFPLAYER module. 
-  - The github package include system voice which reserved by 0001 - 0010. 
-    If you want to put your prefer songs then the file name will go from 0011 - 0025.mp3 by sequence.
+  - The github package include system mp3 files and the file names range reserved from 0001 - 0010.mp3 
+    If you want to put your prefer songs then the file name will be 0011 - 0025.mp3 (total 15 songs) by sequence.
 ----------------------------------------------------------------------------------------------------------------
 Enjoy and have fun. Thanks.  
 Niko Yang 2018, Oct 
