@@ -8,6 +8,7 @@ Huge Tahnks to George Chiou for his great work and contribution on Tank-Go stuff
   - Please visit his Github to download 3D printing files https://github.com/GeorgeChiou/Robot-Shield-V2.0 and 
   - The assembly of instrutions show on his Youtube channel https://youtu.be/rpaQaJ1GmJE
   - Meanwhile, all of H/W BOM list on the film description and Github link on above as well
+  - MTK & Robot Shield https://docs.labs.mediatek.com/resource/linkit7697-arduino/en/kits-and-shields/robot-shield
 ----------------------------------------------------------------------------------------------------------------
 For this update version are based on personal preference, include:
   - Optimize the RC lanscape and those buttons on left and right side 
