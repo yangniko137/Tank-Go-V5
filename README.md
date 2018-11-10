@@ -1,13 +1,14 @@
 # Tank-Go-V5 (Table Tank)
 The project is build on Linkit-7697 and Robot-Shield-V2.0 boards. 
-I would like to call it as "Table Tank" instead, it is very funny to play with family or friends.
-  - It support LBT and Wi-Fi connections on IOS and Android of mobileibility devices 
-  - The Robot-shield is extension board with 2 of 750F capacitor as batteries (full charge by 30-40 mins)  
+According to Tank size, I would like to call it as "Table Tank" instead, it is very funny to play with family or friends.
+  - It support LBT and Wi-Fi connections on PCs, IOS, Android or any mobileibility devices 
+  - Two of 750F capacitor (full charge by 30-40 mins) on Robot-shield board as batteries
 ----------------------------------------------------------------------------------------------------------------
-Huge Tahnks to George Chiou for his great work and contribution on Tank-Go stuffs 
+Huge Tahnks to George Chiou on his great work and contribution
   - Please visit his Github to download 3D printing files https://github.com/GeorgeChiou/Robot-Shield-V2.0 and 
   - The assembly of instrutions show on his Youtube channel https://youtu.be/rpaQaJ1GmJE
-  - Meanwhile, all of H/W BOM list on the film description and Github link on above as well
+  - Meanwhile, all of H/W BOM list on the film description and Github link as well
+  - Facebook https://www.facebook.com/miniPlanrobot/
   - MTK & Robot Shield https://docs.labs.mediatek.com/resource/linkit7697-arduino/en/kits-and-shields/robot-shield
 ----------------------------------------------------------------------------------------------------------------
 For this update version are based on personal preference, include:
@@ -22,6 +23,8 @@ For this update version are based on personal preference, include:
   - The user' button on LinkIT7697 board is test functionalify. It will play AMMO and life alarm 
     voice and those 2 external LED indicators light by 0.5 seconds on each. 
   - we also can use this "user button" to test IR singal if it workable as plan
+  - Update Tank naming rules
+  - Change P15 for AMMO LED and move IR2 to P3
 ----------------------------------------------------------------------------------------------------------------
 Attentions
   - The AMMO indicator connect P15 pin to Robot shield and the 2nd IR LED had move to P3 pin. 
