@@ -14,7 +14,7 @@ Huge Tahnks to George Chiou on his great work and contribution
 For this update version are based on personal preference, include:
   - Optimize the RC lanscape and those buttons on left and right side 
   - Add MP3 play list up to 15 songs on middle of screen 
-  - Insert "Backfill AMMO" message when bullets is zero and player still push fire button 
+  - Insert "Backfill AMMO" message when bullets is zero QTY 
   - Add "repair" voice when Tank damage and the life turn to zero
   - Turret turn left and right angle consistant
   - Add "chu" sound when AMMO volume is zero and the player still push "Fire" button
