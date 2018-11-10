@@ -1,6 +1,7 @@
-# Tank-Go-V5 (Table Tank)
+# Tank-Go-V5 (Battle Tank)
 The project is build on Linkit-7697 and Robot-Shield-V2.0 boards. 
 According to Tank size, I would like to call it as "Table Tank" instead, it is very funny to play with family or friends.
+It is MTK LinkIT-7697 and Robot-Shield 2.0 is expansion board 
   - It support LBT and Wi-Fi connections on PCs, IOS, Android or any mobileibility devices 
   - Two of 750F capacitor (full charge by 30-40 mins) on Robot-shield board as batteries
 ----------------------------------------------------------------------------------------------------------------
