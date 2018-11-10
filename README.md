@@ -15,6 +15,7 @@ Huge Tahnks to George Chiou on his great work and contribution
 ----------------------------------------------------------------------------------------------------------------
 For this update version are based on personal preference, include:
   - Optimize the RC lanscape and those buttons on left and right side 
+  - Update defalut voice volume from 6-28 by 2 / step and defalut is 22 
   - Add MP3 play list up to 15 songs on middle of screen 
   - Insert "Backfill AMMO" message when bullets is zero QTY 
   - Add "repair" voice when Tank damage and the life turn to zero
