@@ -10,6 +10,7 @@ Huge Tahnks to George Chiou on his great work and contribution
   - Meanwhile, all of H/W BOM list on the film description and Github link as well
   - Facebook https://www.facebook.com/miniPlanrobot/
   - MTK & Robot Shield https://docs.labs.mediatek.com/resource/linkit7697-arduino/en/kits-and-shields/robot-shield
+  - This version of software: https://github.com/yangniko137/Tank-Go-V5
 ----------------------------------------------------------------------------------------------------------------
 For this update version are based on personal preference, include:
   - Optimize the RC lanscape and those buttons on left and right side 
