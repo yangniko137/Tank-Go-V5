@@ -21,14 +21,14 @@ For this update version are based on personal preference, include:
   - Add Life LED and the indicator light when "Tank life" is zero and turn to dark when tank repair finished 
   - The user' button on LinkIT7697 board is test functionalify. It will play AMMO and life alarm 
     voice and those 2 external LED indicators light by 0.5 seconds on each. 
-  - we also can use this user' button to test IR singal if it workable as well
+  - we also can use this "user button" to test IR singal if it workable as plan
 ----------------------------------------------------------------------------------------------------------------
 Attentions
   - The AMMO indicator connect P15 pin to Robot shield and the 2nd IR LED had move to P3 pin. 
     If you adopt the dual turret on your tank and connect the 2nd IR LED from original P15 IR LED had to plug 
-    into P3 pin on robot shield board   
-  - Need manual cut pice of Turret supporter as screwdriver show it on attach picture before plug connector to P3 pin
-  - Please create mp3 folder on TF card then insert to DFPLAYER module. 
+    into P3 pin on robot shield board. Also, try to manual cut pice of Turret supporter as screwdriver show as 
+    attach picture before plug connector to P3 pin
+  - Please create mp3 folder and copy all of mp3 files (for system) into TF card then insert to DFPLAYER module. 
   - The github package include system mp3 files and the file names range reserved from 0001 - 0010.mp3 
     If you want to put your prefer songs then the file name will be 0011 - 0025.mp3 (total 15 songs) by sequence.
 ----------------------------------------------------------------------------------------------------------------
