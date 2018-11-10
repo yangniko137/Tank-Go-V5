@@ -5,7 +5,7 @@ It is MTK LinkIT-7697 and Robot-Shield 2.0 is expansion board
   - It support LBT and Wi-Fi connections on PCs, IOS, Android or any mobileibility devices 
   - Two of 750F capacitor (full charge by 30-40 mins) on Robot-shield board as batteries
 ----------------------------------------------------------------------------------------------------------------
-Huge Tahnks to George Chiou on his great work and contribution
+Huge Thanks to George Chiou on his great work and contribution
   - Please visit his Github to download 3D printing files https://github.com/GeorgeChiou/Robot-Shield-V2.0 and 
   - The assembly of instrutions show on his Youtube channel https://youtu.be/rpaQaJ1GmJE
   - Meanwhile, all of H/W BOM list on the film description and Github link as well
